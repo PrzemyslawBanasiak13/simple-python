@@ -1,0 +1,11 @@
+done 1 create background
+done 2 create turtle class
+done 3 make turtle move
+done 4 create car class
+done 5 make cars move across the screen
+done 5.1 make car reset pos after reaching border
+done 6 create colision detection
+done 7 define function of loosing game
+done 8 create scoreboard class
+done 9 put scoreboard on screen and make it count passings
+done 10 create difficulty growth with more passings

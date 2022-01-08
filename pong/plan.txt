@@ -1,0 +1,13 @@
+# klasa paletek
+# klasa piłki
+# klasa cyfr wyników
+
+zrobione 1. zbudować tło
+zrobione 2.1 napisać klasę paleteki
+zrobione 2.2 przejąć kontrolę nad paletkami
+zrobione 3.1 napisać klasę piłki
+zrobione 3.2 wprawić piłęczkę w ruch
+zrobione 4. wykrywanie kolizji piłeczki ze ścianami i paletkami i odbijanie
+zrobione 5. napisać klasę tabeli wyników
+6. zdefiniować zdobycie punktu
+7. zdefiniować funkcję kolejnej rundy w pliku main
